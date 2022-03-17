@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "mongoUrl": "",
+    "prefix": "!",
+    "serverID": "",
+    "developerIDs": [],
+    "cooldownMessages": [],
+    "emojis": {
+        "developers":"",
+        "basic":"👍"
+      }
+}
